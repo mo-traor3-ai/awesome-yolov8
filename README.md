@@ -2,16 +2,16 @@
 <h1>
   awesome-yolov8
 </h1>
+</div>
 
+Easy to use, pre-trained YOLOv8 models. Includes models ranging in size from YOLOv8n to YOLOv8x.
+
+Datasets available for download at the `dataset page` links provided below. Live demonstrations and deployment options for the models are available at the provided `demo page` links.
+
+<div align="center">
 <h2>
-  Easy to use, pre-trained YOLOv8 models found on <a href="https://universe.roboflow.com">Roboflow Universe</a>
+  Model Zoo
 </h2>
-
-<h4>
-  All YOLOv8 Models on Roboflow Universe <a href="https://universe.roboflow.com/search?q=model:yolov8">available here</a>
-</h4>
-
-### Model Zoo
 </div>
 
 <div align="center"><h4>Retail Coolers</h4></div>
