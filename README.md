@@ -36,7 +36,7 @@ Where a dataset used in a model is available publicly, a link is added to the da
 |---            |---         |---         |---        |---           |
 | 0.995 | YOLOv8n | [James](https://universe.roboflow.com/james-gallagher-87fuq/) | [Try the Model](https://universe.roboflow.com/james-gallagher-87fuq/mug-detector-eocwp/model/12) | [Explore the Project](https://universe.roboflow.com/james-gallagher-87fuq/mug-detector-eocwp)
 
-<h2>Learning Resoucres</h2>
+<h2>Learning Resources</h2>
 
 <h3>Blog Posts</h3>
 
