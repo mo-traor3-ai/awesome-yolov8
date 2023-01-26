@@ -16,44 +16,44 @@ Where a dataset used in a model is available publicly, a link is added to the da
 
 | mAP@0.5 score | Model Type | Dataset Creator | Demo Page | Dataset Page | 
 |---            |---         |---         |---        |---           |
-| 0.876 | YOLOv8s | [Roboflow Universe Projects](https://universe.roboflow.com/roboflow-universe-projects/) | [Try the Model](https://universe.roboflow.com/roboflow-universe-projects/retail-coolers/model/10) | [Explore the Project](https://universe.roboflow.com/roboflow-universe-projects/retail-coolers)
+| 0.876 | YOLOv8s | [Roboflow Universe Projects](https://universe.roboflow.com/roboflow-universe-projects/) | [![Try the Model](https://github.com/roboflow/notebooks/blob/main/assets/badges/roboflow-model.svg)](https://universe.roboflow.com/roboflow-universe-projects/retail-coolers/model/10) | [![Explore the Project](https://github.com/roboflow/notebooks/blob/main/assets/badges/roboflow-dataset.svg)](https://universe.roboflow.com/roboflow-universe-projects/retail-coolers)
 
 <h3>Face Detection</h3>
 
 | mAP@0.5 score | Model Type | Dataset Creator | Demo Page | Dataset Page | 
 |---            |---         |---         |---        |---           |
-| 0.897 | YOLOv8s | [Mohamed Traore](https://universe.roboflow.com/mohamed-traore-2ekkp/) | [Try the Model](https://universe.roboflow.com/mohamed-traore-2ekkp/face-detection-mik1i/model/18) | [Explore the Project](https://universe.roboflow.com/mohamed-traore-2ekkp/face-detection-mik1i)
+| 0.897 | YOLOv8s | [Mohamed Traore](https://universe.roboflow.com/mohamed-traore-2ekkp/) | [![Try the Model](https://github.com/roboflow/notebooks/blob/main/assets/badges/roboflow-model.svg)](https://universe.roboflow.com/mohamed-traore-2ekkp/face-detection-mik1i/model/18) | [![Explore the Project](https://github.com/roboflow/notebooks/blob/main/assets/badges/roboflow-dataset.svg)](https://universe.roboflow.com/mohamed-traore-2ekkp/face-detection-mik1i)
 
 <h3>Basketball Players</h3>
 
 | mAP@0.5 score | Model Type | Dataset Creator | Demo Page | Dataset Page | 
 |---            |---         |---         |---        |---           |
-| 0.891 | YOLOv8n | [Roboflow Universe Projects](https://universe.roboflow.com/roboflow-universe-projects/) | [Try the Model](https://universe.roboflow.com/roboflow-universe-projects/basketball-players-fy4c2/model/16) | [Explore the Project](https://universe.roboflow.com/roboflow-universe-projects/basketball-players-fy4c2)
+| 0.891 | YOLOv8n | [Roboflow Universe Projects](https://universe.roboflow.com/roboflow-universe-projects/) | [![Try the Model](https://github.com/roboflow/notebooks/blob/main/assets/badges/roboflow-model.svg)](https://universe.roboflow.com/roboflow-universe-projects/basketball-players-fy4c2/model/16) | [![Explore the Project](https://github.com/roboflow/notebooks/blob/main/assets/badges/roboflow-dataset.svg)](https://universe.roboflow.com/roboflow-universe-projects/basketball-players-fy4c2)
 
 <h3>Mug Detector</h3>
 
 | mAP@0.5 score | Model Type | Dataset Creator | Demo Page | Dataset Page | 
 |---            |---         |---         |---        |---           |
-| 0.995 | YOLOv8n | [James](https://universe.roboflow.com/james-gallagher-87fuq/) | [Try the Model](https://universe.roboflow.com/james-gallagher-87fuq/mug-detector-eocwp/model/12) | [Explore the Project](https://universe.roboflow.com/james-gallagher-87fuq/mug-detector-eocwp)
+| 0.995 | YOLOv8n | [James](https://universe.roboflow.com/james-gallagher-87fuq/) | [![Try the Model](https://github.com/roboflow/notebooks/blob/main/assets/badges/roboflow-model.svg)](https://universe.roboflow.com/james-gallagher-87fuq/mug-detector-eocwp/model/12) | [![Explore the Project](https://github.com/roboflow/notebooks/blob/main/assets/badges/roboflow-dataset.svg)](https://universe.roboflow.com/james-gallagher-87fuq/mug-detector-eocwp)
 
 <h3>Highway Object Detection</h3>
 
 | mAP@0.5 score | Model Type | Dataset Creator | Demo Page | Dataset Page | 
 |---            |---         |---         |---        |---           |
-| 0.773 | YOLOv8s | [Universitas Tidar](https://universe.roboflow.com/universitas-tidar/) | [Try the Model](https://universe.roboflow.com/universitas-tidar/highway-object-detection/model/19) | [Explore the Project](https://universe.roboflow.com/universitas-tidar/highway-object-detection/)
+| 0.773 | YOLOv8s | [Universitas Tidar](https://universe.roboflow.com/universitas-tidar/) | [![Try the Model](https://github.com/roboflow/notebooks/blob/main/assets/badges/roboflow-model.svg)](https://universe.roboflow.com/universitas-tidar/highway-object-detection/model/19) | [![Explore the Project](https://github.com/roboflow/notebooks/blob/main/assets/badges/roboflow-dataset.svg)](https://universe.roboflow.com/universitas-tidar/highway-object-detection/)
 
 <h3>Football Info Detection</h3>
 
 | mAP@0.5 score | Model Type | Dataset Creator | Demo page | Dataset Page | 
 |---            |---         |---         |---        |---           |
-| 0.773 | YOLOv8s | [Duong Tran](https://universe.roboflow.com/duong-tran/) | [Try the Model](https://universe.roboflow.com/duong-tran/football-info-detection/model/2) | [Explore the Project](https://universe.roboflow.com/duong-tran/football-info-detection)
-| 0.786 | YOLOv8l | | [Try the Model](https://universe.roboflow.com/duong-tran/football-info-detection/model/3) |
+| 0.773 | YOLOv8s | [Duong Tran](https://universe.roboflow.com/duong-tran/) | [![Try the Model](https://github.com/roboflow/notebooks/blob/main/assets/badges/roboflow-model.svg)](https://universe.roboflow.com/duong-tran/football-info-detection/model/2) | [![Explore the Project](https://github.com/roboflow/notebooks/blob/main/assets/badges/roboflow-dataset.svg)](https://universe.roboflow.com/duong-tran/football-info-detection)
+| 0.786 | YOLOv8l | | [![Try the Model](https://github.com/roboflow/notebooks/blob/main/assets/badges/roboflow-model.svg)](https://universe.roboflow.com/duong-tran/football-info-detection/model/3) |
 
 <h3>Beverage Containers</h3>
 
 | mAP@0.5 score | Model Type | Dataset Creator | Demo Page | Dataset Page | 
 |---            |---         |---         |---        |---           |
-| 0.950 | YOLOv8n | [Roboflow Universe Projects](https://universe.roboflow.com/roboflow-universe-projects/) | [Try the Model](https://universe.roboflow.com/roboflow-universe-projects/beverage-containers-3atxb/model/3) | [Explore the Project](https://universe.roboflow.com/roboflow-universe-projects/beverage-containers-3atxb/)
+| 0.950 | YOLOv8n | [Roboflow Universe Projects](https://universe.roboflow.com/roboflow-universe-projects/) | [![Try the Model](https://github.com/roboflow/notebooks/blob/main/assets/badges/roboflow-model.svg)](https://universe.roboflow.com/roboflow-universe-projects/beverage-containers-3atxb/model/3) | [![Explore the Project](https://github.com/roboflow/notebooks/blob/main/assets/badges/roboflow-dataset.svg)](https://universe.roboflow.com/roboflow-universe-projects/beverage-containers-3atxb/)
 
 <h2>Learning Resources</h2>
 
