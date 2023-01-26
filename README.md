@@ -18,6 +18,12 @@ Where a dataset used in a model is available publicly, a link is added to the da
 |---            |---         |---         |---        |---           |
 | 0.876 | YOLOv8s | [Roboflow Universe Projects](https://universe.roboflow.com/roboflow-universe-projects/) | [![Try the Model](https://github.com/roboflow/notebooks/blob/main/assets/badges/roboflow-model.svg)](https://universe.roboflow.com/roboflow-universe-projects/retail-coolers/model/10) | [![Explore the Project](https://github.com/roboflow/notebooks/blob/main/assets/badges/roboflow-dataset.svg)](https://universe.roboflow.com/roboflow-universe-projects/retail-coolers)
 
+<h3>Cash Counter</h3>
+
+| mAP@0.5 score | Model Type | Dataset Creator | Demo Page | Dataset Page | 
+|---            |---         |---         |---        |---           |
+| 0.980 | YOLOv8n | [Alex Hyams](https://universe.roboflow.com/alex-hyams-cosqx) | [![Try the Model](https://github.com/roboflow/notebooks/blob/main/assets/badges/roboflow-model.svg)](https://universe.roboflow.com/alex-hyams-cosqx/cash-counter/model/10) | [![Explore the Project](https://github.com/roboflow/notebooks/blob/main/assets/badges/roboflow-dataset.svg)](https://universe.roboflow.com/alex-hyams-cosqx/cash-counter)
+
 <h3>Face Detection</h3>
 
 | mAP@0.5 score | Model Type | Dataset Creator | Demo Page | Dataset Page | 
