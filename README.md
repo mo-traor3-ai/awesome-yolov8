@@ -91,6 +91,18 @@ Where a dataset used in a model is available publicly, a link is added to the da
 |---            |---         |---         |---        |---           |
 | 0.971 | YOLOv8s | [Anthony - FRC](https://universe.roboflow.com/frctesting) | [![Try the Model](https://github.com/roboflow/notebooks/blob/main/assets/badges/roboflow-model.svg)](https://universe.roboflow.com/frctesting/rapid-react-292jv/model/7) | [![Explore the Project](https://github.com/roboflow/notebooks/blob/main/assets/badges/roboflow-dataset.svg)](https://universe.roboflow.com/frctesting/rapid-react-292jv)
 
+<h3>Go Positions</h3>
+
+| mAP@0.5 score | Model Type | Dataset Creator | Demo Page | Dataset Page | 
+|---            |---         |---         |---        |---           |
+| 0.982 | YOLOv8n | [Tim Evans (Synthetic Data)](https://universe.roboflow.com/synthetic-data-3ol2y/) | [![Try the Model](https://github.com/roboflow/notebooks/blob/main/assets/badges/roboflow-model.svg)](https://universe.roboflow.com/synthetic-data-3ol2y/go-positions/model/6) | [![Explore the Project](https://github.com/roboflow/notebooks/blob/main/assets/badges/roboflow-dataset.svg)](https://universe.roboflow.com/synthetic-data-3ol2y/go-positions)
+
+<h3>Playing Cards (from Augmented Startups)</h3>
+
+| mAP@0.5 score | Model Type | Dataset Creator | Demo Page | Dataset Page | 
+|---            |---         |---         |---        |---           |
+| 0.995 | YOLOv8n | [Augmented Startups](https://universe.roboflow.com/augmented-startups/) | [![Try the Model](https://github.com/roboflow/notebooks/blob/main/assets/badges/roboflow-model.svg)](https://universe.roboflow.com/augmented-startups/playing-cards-ow27d/model/4) | [![Explore the Project](https://github.com/roboflow/notebooks/blob/main/assets/badges/roboflow-dataset.svg)](https://universe.roboflow.com/augmented-startups/playing-cards-ow27d)
+
 <h2>Learning Resources</h2>
 
 <h3>Blog Posts</h3>
